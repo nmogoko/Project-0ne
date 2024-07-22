@@ -1,0 +1,221 @@
+{
+  "bookings": [
+    {
+      "id": "ff4a",
+      "yourEmail": "janedoe@gmail.com",
+      "appointmentDate": "2024-07-23",
+      "otherSpecifications": "",
+      "service": "Book a glam-makeup session",
+      "price": "Ksh: 4500"
+    }
+  ],
+  "account": [],
+  "businesses": [
+    {
+      "id": "1",
+      "businessname": "French Polynesia",
+      "category": "makeup",
+      "poster": "https://images.unsplash.com/photo-1533637651569-5a283fd54b11?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fHBob3RvZ3JhcGh5fGVufDB8fDB8fHww",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "location": "Eldoret",
+      "review": 4.3,
+      "reviewCount": 33,
+      "services": [
+        {
+          "name": "glam-makeup",
+          "price": 4500,
+          "image": "https://images.unsplash.com/photo-1643185450492-6ba77dea00f6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFrZXVwfGVufDB8fDB8fHww"
+        },
+        {
+          "name": "soft-glam",
+          "price": 3500,
+          "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWFrZXVwfGVufDB8fDB8fHww"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "businessname": "Tausi beauty",
+      "category": "makeup",
+      "poster": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGJlYXV0eXxlbnwwfHwwfHx8MA%3D%3D",
+      "description": "",
+      "location": "Mombasa",
+      "review": 4.3,
+      "reviewCount": 33,
+      "services": [
+        {
+          "name": "glam-makeup",
+          "price": 5000,
+          "image": "https://d3t32hsnjxo7q6.cloudfront.net/i/dd6ee943412a416ecfe9e4a1b2bed107_ra,w158,h184_pa,w158,h184.jpg"
+        },
+        {
+          "name": "soft-glam",
+          "price": 3500,
+          "image": "https://unsplash.com/photos/woman-in-black-coat-and-black-hijab-dzpJGlmciMo"
+        },
+        {
+          "name": "bridal-makeup",
+          "price": 12500,
+          "image": "https://unsplash.com/photos/woman-wearing-white-bridal-gown-across-green-forest-ij8nIp0hdJE"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "businessname": "Hester beauty",
+      "category": "makeup",
+      "poster": "https://images.unsplash.com/photo-1453761816053-ed5ba727b5b7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGhlc3RlciUyMGJlYXV0eXxlbnwwfHwwfHx8MA%3D%3D",
+      "description": "",
+      "location": "Kisumu",
+      "review": 4.3,
+      "reviewCount": 33,
+      "services": [
+        {
+          "name": "soft-glam",
+          "price": 3000,
+          "image": "http://imancosmetics.com/resources/uploads/product_colors/d7bbcae0b6eff8013fda0a15280037c4.jpg"
+        },
+        {
+          "name": "bridal-makeup",
+          "price": 7500,
+          "image": "https://www.purpicks.com/wp-content/uploads/2018/06/w3llpeople-Realist-Invisible-Setting-Powder.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "businessname": "Ciara's LTD",
+      "category": "makeup",
+      "poster": "https://images.unsplash.com/photo-1522338242992-e1a54906a8da?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGhlc3RlciUyMGJlYXV0eXxlbnwwfHwwfHx8MA%3D%3D",
+      "description": "",
+      "location": "Nairobi",
+      "review": 4.3,
+      "reviewCount": 33,
+      "services": [
+        {
+          "name": "glam-makeup",
+          "price": 6000,
+          "image": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/390/100/0/packshots%252FPDG_y0778920.jpg"
+        },
+        {
+          "name": "soft-glam",
+          "price": 4500,
+          "image": "https://www.purpicks.com/wp-content/uploads/2018/06/Maia%E2%80%99s-Mineral-Galaxy-Mineral-Eye-Brow-Liner-Charcoal-Brown.jpg"
+        },
+        {
+          "name": "bridal-makeup",
+          "price": 15000,
+          "image": "https://www.benefitcosmetics.com/ca/sites/ca/files/styles/category_page_lg/public/porefessional-agent-zero-shine-component0.png?itok=hs_TMG5b"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "businessname": "Cobbs photography",
+      "category": "photography",
+      "poster": "https://unsplash.com/photos/a-row-of-colorful-garage-doors-in-front-of-a-building-DcHqAJ9o6pc",
+      "description": "",
+      "location": "Nairobi",
+      "review": 4.3,
+      "reviewCount": 33,
+      "services": [
+        {
+          "name": "product",
+          "price": "4500",
+          "image": "https://unsplash.com/photos/brown-cardboard-box-with-yellow-light-d2w-_1LJioQ"
+        },
+        {
+          "name": "commercial",
+          "price": "15500",
+          "image": "https://unsplash.com/photos/circuit-boardabstract-network-technology-background3d-renderingconceptual-image-RpPu_1q5Wj0"
+        },
+        {
+          "name": "archictecural",
+          "price": "25000",
+          "image": "https://unsplash.com/photos/a-group-of-skyscrapers-that-are-next-to-each-other-khO4FAqJqbk"
+        },
+        {
+          "name": "portrait",
+          "price": "2500",
+          "image": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-painting-on-the-wall-mGI8b4KFoFM"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "businessname": "Rogers LTD",
+      "category": "photography",
+      "poster": "https://unsplash.com/photos/a-close-up-of-a-sand-dune-with-a-blurry-background-3PGV4blRZJk",
+      "description": "",
+      "location": "Kisumu",
+      "review": 4.3,
+      "reviewCount": 33,
+      "services": [
+        {
+          "name": "product",
+          "price": "5000",
+          "image": "https://unsplash.com/photos/white-egg-on-white-surface-gpkPI7qs1cg"
+        },
+        {
+          "name": "commercial",
+          "price": "15500",
+          "image": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-chandelier-nhzhEZvhZ1M"
+        },
+        {
+          "name": "portrait",
+          "price": "1500",
+          "image": "https://unsplash.com/photos/a-man-sitting-on-top-of-a-red-wall-O7feVZ2_Ptk"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "businessname": "Brocks studio ",
+      "category": "photography",
+      "poster": "https://unsplash.com/photos/a-person-dressed-in-a-costume-made-of-ties-FiULex4x2Dk",
+      "description": "",
+      "location": "Eldoret",
+      "review": 4.3,
+      "reviewCount": 33,
+      "services": [
+        {
+          "name": "product",
+          "price": "4500",
+          "image": "https://unsplash.com/photos/a-wooden-bench-in-a-room-XFQwJqKtqoQ"
+        },
+        {
+          "name": "portrait",
+          "price": "1500",
+          "image": "https://unsplash.com/photos/a-woman-wearing-a-black-shirt-talking-on-a-cell-phone-RpLIxeMZLXA"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "businessname": "Reeves Studio",
+      "category": "photography",
+      "poster": "https://unsplash.com/photos/a-view-of-a-body-of-water-from-above-nl1yuE_ETUw",
+      "description": "",
+      "location": "Mombasa",
+      "review": 4.3,
+      "reviewCount": 33,
+      "services": [
+        {
+          "name": "product",
+          "price": "4000",
+          "image": "https://unsplash.com/photos/a-bottle-of-champagne-being-poured-into-two-wine-glasses-Ka6ULDf-mD4"
+        },
+        {
+          "name": "archictecural",
+          "price": "20000",
+          "image": "https://unsplash.com/photos/a-red-carpeted-hallway-leading-to-a-doorway-J3PGjcMsYzM"
+        },
+        {
+          "name": "portrait",
+          "price": "2000",
+          "image": "https://unsplash.com/photos/a-person-standing-on-top-of-a-sand-dune-KB4gx3Ik1Bk"
+        }
+      ]
+    }
+  ]
+}

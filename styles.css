@@ -1,0 +1,48 @@
+.custom-carousel {
+    margin-top: 20px; /* Adjust the value as needed */
+    height: 450px; /* Set the desired height */
+}
+
+.custom-carousel .carousel-item {
+    height: 100%; /* Make sure the carousel items take up the full height of the carousel */
+}
+
+.custom-carousel .carousel-item img {
+    height: 100%;
+    object-fit: cover; /* Maintain aspect ratio and cover the entire container */
+}
+
+.btn-group {
+    display: flex;
+    width: 100%;
+}
+
+.btn-check {
+    display: none;
+}
+
+.custom-btn {
+    flex: 1;
+    padding: 10px 0;
+    text-align: center;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.3s;
+}
+
+.btn-check:checked + .custom-btn {
+    border-bottom: 2px solid black;
+}
+
+.custom-btn {
+    border-bottom: none;
+    cursor: pointer;
+    padding: 10px;
+    display: inline-block;
+}
+
+.custom-btn.active {
+    border-bottom: 2px solid black;
+}
+
+
